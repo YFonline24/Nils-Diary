@@ -8,18 +8,18 @@
     }
 
     .wave {
-      animation: wave 15s linear infinite;
+      animation: wave 30s linear infinite;  /* movement duration increased for smoothness */
       fill: url(#animatedGradient);
     }
 
     #wave2 {
-      animation-duration: 20s;
+      animation-duration: 40s;
       animation-direction: reverse;
       opacity: 0.6;
     }
 
     #wave3 {
-      animation-duration: 25s;
+      animation-duration: 50s;
       opacity: 0.3;
     }
 
