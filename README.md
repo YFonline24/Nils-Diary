@@ -1,4 +1,4 @@
-# Nils-Diary
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I’m+Nil+👋;Welcome+to+Nil's+Diary;A+Developer,+Dreamer,+Doer💜;&center=true&width=500&height=50">
@@ -6,10 +6,7 @@
 
 <h1 align="center">Nil's Diary</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-4b6e9c" alt="Pronouns">
-  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%9C%20by%20Nil's%20Diary-ff69b4" alt="Made with 💜 by Nil's Diary">
-</p>
+
 
 ---
 
@@ -67,7 +64,8 @@ If you like what I do, consider buying me a coffee ☕
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YFonline24/YFonline24/main/wave.svg" alt="wave divider" />
+  <img src="https://github.com/YFonline24/Nils-Diary/blob/main/wave.svg" alt="wave divider" />
+  
 </p>
 
 <p align="center">Made with 💜 by Nil's Diary</p>
